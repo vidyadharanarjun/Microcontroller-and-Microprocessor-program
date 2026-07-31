@@ -1,7 +1,0 @@
-LDA  2000H
-mov b,a
-LDA 2001H
-CMP B
-MOV A,B
-STA 2002H
-HLT
